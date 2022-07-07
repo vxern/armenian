@@ -1,32 +1,20 @@
-# The Armenian Language / Հայերեն
+# The Armenian Language / Հայերեն | Հայերէն
+
+## Introduction
+
+This is a repository of resources that have been collected by members of the [Learn Armenian](https://discord.gg/xwgAysRrZU) community on Discord pertaining to the Armenian language in all of its forms.
+
+'Armenian' is a collective name for a group of closely related dialects, chiefly the Eastern and Western Armenian variants, but also historical variants such as Classical and Middle Armenian. Instead of focusing on a single, particular dialect, this repository seeks to house resources for all of the variants of the Armenian language.
+
+Anybody and everybody is welcome to contribute to this repository, as well as urged to create one for their native or target language if one does not exist.
 
 ## Table of Contents
 
-<!--This section needs a description.-->
+This Armenian language repository is broken up into two main sections: [historical](Historical/README.md) (for the historical Armenian languages, such as Classical Armenian, also known as Old Armenian) and [modern](Historical/README.md) (for the modern Armenian languages spoken today).
 
-- [Language](#language)
-  - [YouTube](#youtube)
-  - [Courses and Lessons](#courses-and-lessons)
-- [References](#references)
-
-## Language
-
-<!--This section needs a description.-->
-  
-- ### YouTube
-
-  <!--This section needs a description.-->
-  
-  - #### Channels
-  
-    - [Learn Armenian with Hayasa](https://www.youtube.com/channel/UCrQdNlXinSGtn-ME0gN8RJw) - An up-and-coming YouTube channel dedicated to the Armenian language, led by Shushan (Շուշան), a representative of the [Hayasa School](http://hayasaschool.com).
-    - [The Mariam](https://www.youtube.com/channel/UCuUbffk3dks2Gi_TivgMMEA) - Hosted by Mariam Sharoyan (Մարիամ Շարոյան), 'The Mariam' is a YouTube channel with content about Armenia, anthropology, art, history, travelling, linguistics and culture.
-    - [Curious Chris](https://www.youtube.com/c/CuriousChrischannel) - A channel with videos about the Armenian and Russian languages and their respective scripts.
-
-- ### Courses and Lessons
-
-  <!--This section needs a description.-->
-  
-  - [Peace Corps](https://www.livelingua.com/project/peace-corps/armenian) - A project by US Peace Corps to teach the Armenian language, also available on [YouTube](https://www.youtube.com/playlist?list=PLTdOEWx7hBZzs5oyiByEqmS66UIbWiyjg)
-  
-## References
+- [Historical](Historical/README.md)
+  - [Classical (Old) Armenian](Historical/Classical%20Armenian/README.md)
+  - [Middle Armenian](Historical/Middle%20Armenian/README.md)
+- [Modern](Modern/README.md)
+  - [Eastern Armenian](Modern/Eastern%20Armenian/README.md)
+  - [Western Armenian](Modern/Western%20Armenian/README.md)
