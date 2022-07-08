@@ -1,5 +1,11 @@
 # The Armenian Language / Հայերեն | Հայերէն
 
+<div align="center">
+    <section>
+        <img src="https://user-images.githubusercontent.com/56321034/178072582-7cf6a882-e6a8-4e3f-a6e0-00e8ffe60f97.png" alt="Resources Image"/>
+    </section>
+</div>
+
 ## Introduction
 
 This is a repository of resources that have been collected by members of the [Learn Armenian](https://discord.gg/xwgAysRrZU) community on Discord pertaining to the Armenian language in all of its forms.
