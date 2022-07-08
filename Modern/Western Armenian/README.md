@@ -5,10 +5,15 @@
 This is a high-level overview of the sections the resources are organised into for the western variant of the Armenian language.
 
 - [Language](#language)
+  - [Courses](#courses)
   - [Books](#books)
   - [Poems](#poems)
 
 ## Language
+
+- ### Courses
+
+  - [Armenian Virtual College](https://www.avc-agbu.org/departments/armenian-language/16)
 
 - ### Books
 
