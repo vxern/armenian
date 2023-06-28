@@ -8,15 +8,25 @@
 
 ## Introduction
 
-This is a repository of resources that have been collected by members of the [Learn Armenian](https://discord.gg/xwgAysRrZU) community on Discord pertaining to the Armenian language in all of its forms.
+This is a repository of resources that have been collected by members of the
+[Learn Armenian](https://discord.gg/xwgAysRrZU) community on Discord pertaining
+to the Armenian language in all of its forms.
 
-'Armenian' is a collective name for a group of closely related dialects, chiefly the Eastern and Western Armenian variants, but also historical variants such as Classical and Middle Armenian. Instead of focusing on a single, particular dialect, this repository seeks to house resources for all of the variants of the Armenian language.
+'Armenian' is a collective name for a group of closely related dialects, chiefly
+the Eastern and Western Armenian variants, but also historical variants such as
+Classical and Middle Armenian. Instead of focusing on a single, particular
+dialect, this repository seeks to house resources for all of the variants of the
+Armenian language.
 
-Anybody and everybody is welcome to contribute to this repository, as well as urged to create one for their native or target language if one does not exist.
+Anybody and everybody is welcome to contribute to this repository, as well as
+urged to create one for their native or target language if one does not exist.
 
 ## Table of Contents
 
-This Armenian language repository is broken up into two main sections: [historical](Historical/README.md) (for the historical Armenian languages, such as Classical Armenian, also known as Old Armenian) and [modern](Historical/README.md) (for the modern Armenian languages spoken today).
+This Armenian language repository is broken up into two main sections:
+[historical](Historical/README.md) (for the historical Armenian languages, such
+as Classical Armenian, also known as Old Armenian) and
+[modern](Historical/README.md) (for the modern Armenian languages spoken today).
 
 - [Historical](Historical/README.md)
   - [Classical (Old) Armenian](Historical/Classical%20Armenian/README.md)

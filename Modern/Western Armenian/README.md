@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-This is a high-level overview of the sections the resources are organised into for the western variant of the Armenian language.
+This is a high-level overview of the sections the resources are organised into
+for the western variant of the Armenian language.
 
 - [Language](#language)
   - [Courses](#courses)
@@ -21,4 +22,5 @@ This is a high-level overview of the sections the resources are organised into f
 
 - ### Poems
 
-  - [Lyrikline](https://www.lyrikline.org/en/authors?nav=1&lang%5B%5D=hy) - Armenian poets translated to other languages.
+  - [Lyrikline](https://www.lyrikline.org/en/authors?nav=1&lang%5B%5D=hy) -
+    Armenian poets translated to other languages.
